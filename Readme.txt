@@ -9,3 +9,5 @@ Password is same as userId.
 
 If you find any error in project or any issue then please contact me with the link
 https://keltaking.co/#contact 
+
+If you download this project then make sure to set the inner links according to your preference.
