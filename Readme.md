@@ -19,7 +19,7 @@ Admin can add or remove users and subjects. Users can be a student or teacher. T
 Teacher will add the attendence for a perticular subject and date. Teacher has to select the date then have to add attendence by selecting eaither 1 or 0. 
 </p>
 <h3><b>Student Account</b></h3>
-<img src="https://github.com/Kelta-King/AMS/blob/master/img/student.JPG">
+<img src="https://github.com/Kelta-King/AMS/blob/master/img/Student.JPG">
 <p>
 Student can see the percentage of a perticular subject's attendence. Every user(student, admmin, teacher) can change theeir passwords.
 </p>
