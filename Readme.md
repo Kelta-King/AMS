@@ -3,7 +3,7 @@
 Attendance management system is for managing the attendance of students online. Teacher can add attendance of students date wise and 
 students are allowed to see their attendace whenever they want.
 </p>
-<a href="https://keltaking.co/KeltaAttendance/"><img src="https://github.com/Kelta-King/AMS/blob/master/img/Capture.JPG"></a>
+<img src="https://github.com/Kelta-King/AMS/blob/master/img/Capture.JPG">
 <p>
 There are three types of acconts. Admin account, teacher and student account.
 </p>
